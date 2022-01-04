@@ -1,0 +1,116 @@
+/* Fonte
+'Roboto', sans-serif;
+Cores
+Azul principal: #1da1f2;
+Opacidade: 0.4;
+Cinza: #828282;
+Cinza escuro: #333333;
+Cinza azulado: #e7ecf0;
+Preto: #000000;
+Branco: #ffffff; */
+
+/* BODY */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 100%;
+    max-width: 9000x;
+    margin: 0 auto;
+    display:flex;
+    
+}
+/* CABEÇALHO */
+.cabeçalho{
+    flex-basis: 30%;
+}
+.cabeçalho_logo{
+    margin-bottom: 50px;
+}
+.cabeçalho_logo figcaption{
+    display: none;
+}
+.navbar{}
+.menu{}
+
+.cabeçalho_item{
+    margin-bottom: 25px;
+}
+.cabeçalho_item img{
+    max-width: 26px;
+}
+.cabeçalho_item a{
+    color: #000;
+    text-decoration: none;
+    font-size: 22px;
+    vertical-align: top;
+}
+/* MAIN - CONTEUDO PRINCIPAL */
+main{}
+.conteudoPrincipal_Home{
+    flex-basis: 70%;
+    border-left: 1px solid #e7ecf0;
+    border-right: 1px solid #e7ecf0;
+}
+.conteudoPrincipal_Titulo{
+    padding: 10px 30px;
+}
+.formularioPostagem{
+    padding: 10px 30px;
+    border-top: 1px solid #e7ecf0;
+    border-bottom: 10px solid #e7ecf0;
+    text-align: right;
+}
+.formularioPostagem textarea{
+    display: block;
+    width: 100%;
+    border:none;
+    outline: none;
+    resize: none;
+    height: 55px;
+}
+.formularioPostagem button{
+    background-color: #1da1f2;
+    border: none;
+    padding: 8px 20px;
+    color: #fff;
+    border-radius: 20px;
+
+}
+.conteudoFeed{}
+.listaTweets{
+    display: flex;
+    flex-flow: column-reverse nowrap;
+}
+
+
+/* POSTAGEM */
+.tweet{
+    padding: 20px 32x;
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid #e7ecf0;
+}
+.tweet_foto{}
+.tweet_conteudo{
+    margin-left: 15px;
+ 
+    
+}
+.tweet_conteudo h2{
+    display: inline-block;
+    font-size:large
+}
+.tweet_conteudo span{
+    display: inline-block;
+    color: #828282;
+    
+}
+.tweet_conteudo p{
+    margin-top: 15px;
+    color: #333333;
+}
+/* FEED */
+
+
