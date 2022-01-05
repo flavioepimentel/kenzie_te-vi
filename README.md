@@ -18,7 +18,7 @@ Obs: Caso você nunca tenha utilizado o Live Server, vale uma conferida nesse [t
 
 3 - Retorno esperado:
 
-![Screenshot](https://github.com/flavioepimentel/kenzie_te-vi/blob/main/assets/img/front-clean.png]
+![Screenshot](https://github.com/flavioepimentel/kenzie_te-vi/blob/main/assets/img/front-clean.png)
 
 4 - Agora é só começar a postar. =D
 
