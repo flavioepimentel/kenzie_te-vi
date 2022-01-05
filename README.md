@@ -14,7 +14,7 @@ Kenzie Academy exercise.
 
 ![Screenshot](https://github.com/flavioepimentel/kenzie_te-vi/blob/main/assets/img/liveserver.png)
 
-Obs: Caso você nunca tenha utilizado o Live Server, vale uma conferida nesse ![tutorial.](https://www.youtube.com/watch?v=yGzQRA-NC_Q)
+Obs: Caso você nunca tenha utilizado o Live Server, vale uma conferida nesse [tutorial.](https://www.youtube.com/watch?v=yGzQRA-NC_Q)
 
 3 - Retorno esperado:
 
